@@ -26,7 +26,7 @@ una vez instalada procedemos a realizar el mismo procedimiento para obtener el p
 
 ----
 
-### Como hacer una copia del proyecto en Android Studio
+### Copiar y pegar el proyecto en Android Studio
 
 -Copie la siguiente cadena de texto:
 
